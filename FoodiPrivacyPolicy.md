@@ -21,7 +21,6 @@ https://github.com/WrichikBasu/ShakeAlarmClock/blob/1031bad5edd2e73eda091cd1e847
 | `android:name=android.permission.VIBRATE` | Permission automatically granted by the system, can't be revoked by user  | 
 | `android:name=android.permission.WRITE_EXTERNAL_STORAGE` | Required to upload images from camera to application. User can choose to allow | 
 | `android:name=android.permission.ACCESS_FINE_LOCATION` | Required to show users current location on App. User can choose to allow | 
-| `android:name=android.permission.ACCESS_BACKGROUND_LOCATION` | Required to show users current location on App. User can choose to allow | 
 | `android:name=android.permission.ACCESS_COARSE_LOCATION` | Required to show users current location on App. User can choose to allow | 
 | `android:name=android.permission.CAMERA` | Required to upload images to the application for use. User can choose to allow | 
 
